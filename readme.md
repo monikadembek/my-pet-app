@@ -1,0 +1,1 @@
+My Pet App - fulstack app - Angular / Node.js / Express.js / Prisma / PostgreSQL
