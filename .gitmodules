@@ -1,0 +1,6 @@
+[submodule "my-pet-app-backend"]
+	path = my-pet-app-backend
+	url = https://github.com/monikadembek/my-pet-app-backend
+[submodule "my-pet-app-frontend"]
+	path = my-pet-app-frontend
+	url = https://github.com/monikadembek/my-pet-app-frontend
